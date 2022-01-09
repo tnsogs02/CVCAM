@@ -1,0 +1,12 @@
+{	
+"fps":5,
+"thresh":40,
+"contourValue":3000,
+"freezeLength":8,
+"videoMaxLength":30,
+"recording":"enable",
+"statLED":"4",
+"buzzer":"17",
+"acc":0.60,
+"accMid":10.1
+}
